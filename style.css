@@ -1,0 +1,79 @@
+.container{width:600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Open Sans';
+
+}
+.newsletter-form email{
+  display: block;
+  width:100%;
+  border: solid 1px #cfcfcf;
+  height: 30px;
+  padding-left:5px;
+  border-radius: 3px;
+  box-sizing:border-box;
+  
+
+}
+.newsletter-form{
+  color: grey;
+  border-radius:3px;
+  border: solid thin #cfcfcf;
+  padding: 10px}
+.newsletter-form h3{margin-top:0;
+  position:relative;
+}
+.closing-x{
+  position:absolute;
+  top:89px;
+  right:120px;
+
+}
+.newsletter-form button{
+  display:block;
+  width:100%;
+  background-color:#3cb878;
+  border:0;
+  color:white;
+  height:30px;
+  margin-top:5px
+
+}
+#terms{position:relative;
+  top: 2px;
+
+}
+#question-circle{
+  height:100px;
+  width:100px;
+  background-color:#3cb878;
+  border-radius: 50%;
+  font-size:70px;
+  color:white;
+  text-align:center;
+  position: fixed;
+  bottom:10px;
+  right: 10px
+}
+.closing-x button{
+  background-color:white;
+  color:black;
+  cursor:pointer;
+  
+}
+.card{width:180px;
+  background-color:#3cb878;
+  text-align:center;
+  padding-top: 20px;
+  color: white;
+  padding-bottom:5px;
+  margin-bottom:40px;
+  box-shadow: 0px 0px 4px 2px gray;
+  
+}
+.card-holder{
+  display:flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items:center;
+}
