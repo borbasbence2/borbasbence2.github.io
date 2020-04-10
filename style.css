@@ -80,8 +80,9 @@ img:hover{
 body{
     background-image: url(background.jpg) ;
     ;
-    background-size: contain
-     ;
+    background-size: contain;
+    margin-left:auto;
+    margint-right:auto;
 }
 .content{
     max-width: 500px;
