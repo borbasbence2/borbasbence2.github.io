@@ -1,9 +1,11 @@
-h1{
+#fejlec{
     color: #474747;
     text-align: center;
     margin-top:0%;
     font-size:65px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background:none;
+    border:none;
 
 
     
@@ -96,4 +98,29 @@ a{
     color:#474747;
     text-decoration-color: tomato;
      ;
+}
+
+#katt{
+    font-size:10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background:none;
+    border:none;
+    
+    
+}
+
+#harmadik-gomb{
+    font-size:10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background:none;
+    border:none;
+    height:40px
+}
+
+#idene{
+    font-size:10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background:none;
+    border:none;
+    height:40px
 }
