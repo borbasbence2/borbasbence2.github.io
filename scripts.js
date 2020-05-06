@@ -13,7 +13,10 @@ $("#katt").click((event) => {$("#fejlec").text ("MINDENT")})
 $("#harmadik-gomb").click((event) => { $("button").css ("background-color", "pink") 
 
 })
+
+
 let num=0
-$("#szamlalo").click(() => {
+$(".szamlalo").click(() => {
 num++; $(".szam").text(num);
 })
+

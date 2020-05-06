@@ -1,4 +1,15 @@
-console.log("Hello Bence")
+console.log("Hello Bence");
+
+let post = {
+    author: 'Bill Gates',
+    content: "Online communication will change how companies work",
+    date: "2020-04-01 18:06",
+  };
+console.log(post['author'])
+
+let myObject = { colors:["blue" , "yellow", "green"]}
+myObject.hasManyColors = myObject.colors.length > 3;
+
 
 let variable = 12;
 let myVariable = false;
